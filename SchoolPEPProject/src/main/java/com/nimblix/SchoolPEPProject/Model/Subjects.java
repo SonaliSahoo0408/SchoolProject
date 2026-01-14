@@ -1,6 +1,4 @@
 package com.nimblix.SchoolPEPProject.Model;
 
-public class Admin {
-
-
+public class Subjects {
 }
